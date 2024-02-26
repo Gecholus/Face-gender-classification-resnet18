@@ -3,7 +3,9 @@ This code contains a Google Colab notebook for training and running a model that
 Usage:
 
 -Open the notebook in Google Colab.
+
 -From the Colab "Runtime" menu, select "Run All".
+
 -Once the model is trained, it can be used to classify test images.
 
 Notes:
@@ -11,6 +13,7 @@ Notes:
 This model is trained on the https://www.kaggle.com/datasets/rashikrahmanpritom/gender-recognition-dataset dataset.
 The accuracy of the model may vary depending on the test dataset.
 This model is for educational purposes only and should not be used for commercial purposes.
+
 Code:
 
 This notebook contains the following code snippets:
