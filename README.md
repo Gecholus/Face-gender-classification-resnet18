@@ -16,10 +16,15 @@ Code:
 This notebook contains the following code snippets:
 
 Data loading: Used to load the Kaggle dataset.
+
 Data preprocessing: Used to resize and normalize the images.
+
 Model building: Used to create a deep learning model to extract facial features and predict gender.
+
 Model training: Used to train the model on the Kaggle dataset.
+
 Model evaluation: Used to evaluate the accuracy of the model on the test dataset.
+
 GitHub Repository:
 
 This code is available in a repository at https://github.com/.
